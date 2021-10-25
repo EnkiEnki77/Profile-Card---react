@@ -26,7 +26,7 @@ function Main() {
       <div class="desc top">
         <p>Currently learning React.js</p>
       </div>
-      <button class="btn color-a top"> Hire me</button>
+    <a href = 'https://www.linkedin.com/feed/' target = '_blank' >  <button cursor ='pointer' class=" hov btn color-a top"> Hire me</button></a>
 
       <hr></hr>
       <div class="container-2">
